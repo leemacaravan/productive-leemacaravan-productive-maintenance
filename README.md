@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Predictive Maintenance System
+# AI-Powered Predictive Maintenance System
 Predict machine failures before they happen!  
 
 This project analyzes sensor data (temperature, vibration, pressure) and uses machine learning to predict machine failures **7 days in advance**. The system also provides **real-time visualizations** of sensor trends.
@@ -8,7 +8,7 @@ This project analyzes sensor data (temperature, vibration, pressure) and uses ma
 
 ---
 
-## 🔧 Features  
+## Features  
 ✔ **Machine Learning Model** – Uses **RandomForest** to predict failures based on past sensor trends.  
 ✔ **Real-Time Sensor Dashboard** – Displays live sensor readings using **Streamlit**.  
 ✔ **Failure Prediction Alerts** – Detects anomalies and flags machines at risk of failure.  
@@ -16,7 +16,7 @@ This project analyzes sensor data (temperature, vibration, pressure) and uses ma
 
 ---
 
-## 📂 Tech Stack  
+## Tech Stack  
 | Technology  | Purpose  |
 |------------|---------|
 | Python | Backend, Data Processing, ML Model |
@@ -29,7 +29,7 @@ This project analyzes sensor data (temperature, vibration, pressure) and uses ma
 
 ## 🚀 Installation & Setup  
 
-### 1️⃣ Clone the Repository  
+### 1. Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/predictive-maintenance.git
 cd predictive-maintenance
